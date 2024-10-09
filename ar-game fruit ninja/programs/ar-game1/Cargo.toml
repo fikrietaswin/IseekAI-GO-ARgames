@@ -1,0 +1,21 @@
+[package]
+name = "ar-game1"
+version = "0.1.10"
+description = "Created with Bolt"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "ar_game1"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+idl-build = ["anchor-lang/idl-build"]
+
+[dependencies]
+bolt-lang = "0.1.10"
+anchor-lang = "0.30.1"
