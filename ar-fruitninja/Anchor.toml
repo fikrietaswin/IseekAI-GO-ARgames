@@ -5,9 +5,9 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-ar_game1 = "HbwmW3WuSH5vKjzfSqxUzVrEPgZU632HVnWSGtqKquRP"
-movement = "DpwZi8NhGz1acpfeBLS8YNQ5fesm2rNme73YwajyLDPp"
-position = "8kjeiyq3Zh7XHDHPgNocbkunSLeDBgcbbUTfnQbkqiN6"
+ar_fruitninja = "DhZ2Z7CETH3iLQzw4TiUmiU1CcNJYvphFa4eNop3UptF"
+movement = "zae9oxPrgsh9WsxFnH3euYRG7APFum2H3eyB2DFVRgR"
+position = "GGz1YtMVyaDGcBew4EGFBjcr5BGSPzFnyufm2CZzY5oo"
 
 [registry]
 url = "https://api.apr.dev"

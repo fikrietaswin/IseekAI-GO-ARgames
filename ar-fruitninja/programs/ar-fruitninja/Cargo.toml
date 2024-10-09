@@ -1,12 +1,12 @@
 [package]
-name = "ar-game1"
+name = "ar-fruitninja"
 version = "0.1.10"
 description = "Created with Bolt"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "ar_game1"
+name = "ar_fruitninja"
 
 [features]
 no-entrypoint = []
